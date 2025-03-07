@@ -1,2 +1,2 @@
-# -ABAP-PROJECTS
+# ABAP-PROJECTS
 Abap projects
