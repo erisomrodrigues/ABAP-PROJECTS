@@ -1,4 +1,4 @@
-<img src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP Logo" width="200" />
+<img src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP Logo" width="160" />
 
 # ABAP-PROJECTS
 
