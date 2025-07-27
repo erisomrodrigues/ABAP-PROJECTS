@@ -1,7 +1,7 @@
 # ABAP-PROJECTS
 
 ## TIPS & TRICKS
-1. Usando [CASE dentro do SELECT](./TIPS_&_TRICKS)
+1. Usando [CASE dentro do SELECT](./TIPS_&_TRICKS/)
 
 
 ---
