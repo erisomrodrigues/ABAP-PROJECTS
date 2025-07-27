@@ -3,7 +3,7 @@
 ## Abap projects
 
 ## TIPS & TRICKS
-1. Usando [CASE dentro do SELECT](./TIPS_&_TRICKS/1.-ZPROG_SELECT_WITH_CASE_ERI.ABAP)
+1. Usando [CASE dentro do SELECT](./TIPS_&_TRICKS/1.ZPROG_SELECT_WITH_CASE_ERI.ABAP)
 
 
 
