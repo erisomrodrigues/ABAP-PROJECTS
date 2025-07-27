@@ -1,5 +1,5 @@
 # ABAP-PROJECTS
 Abap projects
 
-# TIPS & TRIPS
+# TIPS & TRICKS
 1. Usando CASE dentro do SELECT 
