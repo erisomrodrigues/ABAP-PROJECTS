@@ -4,6 +4,7 @@
 
 ## OOP (Orientação a objetos)
 ### Udemy
+1. Trabalhando com [herança]() em classes locais
 
 ## TIPS & TRICKS
 1. Usando [CASE dentro do SELECT](/TIPS_&_TRICK/ZPROG_SELECT_WITH_CASE_ERI.ABAP) para modificar campos na tabela interna
