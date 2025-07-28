@@ -11,7 +11,8 @@
 ## OOP (Orientação a objetos)
 ### Udemy
 1. Trabalhando com [herança](/OOP/ZPROG_OO_RELACOES_ERI.ABAP) em classes locais.
-2. [Instânciando objetos](/OOP/ZPROG_CREATE_INSTANCE_ERI.ABAP) com verificação de criação com IS BOUND
+2. [Instânciando objetos](/OOP/ZPROG_CREATE_INSTANCE_ERI.ABAP) com verificação de criação com IS BOUND.
+3. Construindo [construtores e construtores de classe](/OOP/ZPROG_CLASS_CONSTRUCTOR_ERI.ABAP)
 
 ## TIPS & TRICKS
 1. Usando [CASE dentro do SELECT](/TIPS_&_TRICK/ZPROG_SELECT_WITH_CASE_ERI.ABAP) para modificar campos na tabela interna
