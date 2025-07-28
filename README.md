@@ -1,4 +1,5 @@
 <img src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP Logo" width="160" />
+
 ---
 🧑‍💼 **Autor:** Erisom Almeida
 🎓 Esp. Engenharia de software
