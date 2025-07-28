@@ -19,7 +19,4 @@
 3. Realizando um [LOOP AT reverso](/TIPS_&_TRICK/ZPROG_LOOP_REVERSE_STEP_ERI.ABAP) com a instrução STEP.
 
 ---
-🧑‍💼 **Autor:** Erisom Almeida
-🎓 Esp. Engenharia de software
-🖥️ SAP ABAP Developer
-🏠 🇧🇷 Fortaleza-CE  
+
