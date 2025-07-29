@@ -15,6 +15,7 @@
 3. Construindo [construtores e construtores de classe](/OOP/ZPROG_CLASS_CONSTRUCTOR_ERI.ABAP)
 4. Acessando methods e atributos quando forem [estaticos ou de instância](/OOP/ZPROG_ACESS_METHOD_ATTRIBUTE.ABAP).
 5. Determinando [OPTIONAL e PREFERRED PARAMETER](/OOP/ZPROG_METHODS_ERI.ABAP) para methods em classe locais, com identificador de prioridade de importação.
+6. Formatação de [CPF usando classes locais](/OOP/ZPROG_OOP_FORMATA_CPF_ERI.ABAP).
 
 ## TIPS & TRICKS
 1. Usando [CASE dentro do SELECT](/TIPS_&_TRICK/ZPROG_SELECT_WITH_CASE_ERI.ABAP) para modificar campos na tabela interna
