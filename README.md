@@ -17,6 +17,7 @@
 5. Acessando methods e atributos quando forem [estaticos ou de instância](/OOP/ZPROG_ACESS_METHOD_ATTRIBUTE.ABAP).
 6. Determinando [OPTIONAL e PREFERRED PARAMETER](/OOP/ZPROG_METHODS_ERI.ABAP) para methods em classe locais, com identificador de prioridade de importação.
 7. Formatação de [CPF usando classes locais](/OOP/ZPROG_OOP_FORMATA_CPF_ERI.ABAP).
+8. [INHERITING FROM](OOP/ZPROG_OOP_CLASS_ANIMAL_ERI.ABAP) para determinação de herânça em classes locais.
    
 
 ## TIPS & TRICKS
