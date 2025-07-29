@@ -17,6 +17,7 @@
 6. Determinando [OPTIONAL e PREFERRED PARAMETER](/OOP/ZPROG_METHODS_ERI.ABAP) para methods em classe locais, com identificador de prioridade de importação.
 7. Formatação de [CPF usando classes locais](/OOP/ZPROG_OOP_FORMATA_CPF_ERI.ABAP).
 8. [INHERITING FROM](OOP/ZPROG_OOP_CLASS_ANIMAL_ERI.ABAP) para determinação de herânça em classes locais.
+9. Usando a referência [ME-> e o uso do NOT SUPPLIED](/OO/) em classes locais para diferenciar atributos com variveis locais com mesmo nome.
 
 ### Ekook
 1. Uso de [CLASS-METHODS e CLASS-DATE](/OOP/ZPROG_OOP_CONSTRUCTOR_ERI.ABAP) para methods de classe (Methods estáticos) e atributos de classes (Atributos estáticos)
