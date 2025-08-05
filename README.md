@@ -19,6 +19,7 @@
 8. [INHERITING FROM](OOP/ZPROG_OOP_CLASS_ANIMAL_ERI.ABAP) para determinação de herânça em classes locais.
 9. Usando a referência [ME-> e o uso do NOT SUPPLIED](/OO/ZPROG_ATRIBUTOS_VARIAVEIS_ERI.ABAP) em classes locais para diferenciar atributos com variveis locais com mesmo nome.
 10. Usando [encapsulamento](/OOP/ZPROG_ENCAPSULAMENTO_VISIB_ERI.ABAP) com classe local para perguntar nome
+11. Methos [GET e SET](/OO/ZPROG_GETTERS_AND_SETTERS_ERI.ABAP) para instância de atributos.
 
 ### Books
 1. Uso de [CLASS-METHODS e CLASS-DATE](/OOP/ZPROG_OOP_CONSTRUCTOR_ERI.ABAP) para methods de classe (Methods estáticos) e atributos de classes (Atributos estáticos)
