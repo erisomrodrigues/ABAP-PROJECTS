@@ -31,5 +31,7 @@
 4. Formatação de textos com [TO_UPPER CASE, TO_LOWER CASE e TRANSLATE](/TIPS_&_TRICK/ZPROG_TRANSLATE_UPPER_LOWER.ABAP)
 5. Expressões incorporadas em modelo de string [SY-DATUM, SY-UZEIT, CURRENCY, WIDTH e ALPHA](/TIPS_&_TRICK/ZPROG_STRING_EMBEDDED_ERI.ABAP)  ABAP moderno
 
+## Core ABAP Skills
+1. Usando as instruções LOOP,DO e CASE para criar algoritmo de [FIBONACCI](/ABAP-SKILL/Z_FIBONACCI_ERI.ABAP).
 ---
 
