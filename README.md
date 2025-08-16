@@ -22,7 +22,8 @@
 11. Methos [GET e SET](/OOP/ZPROG_GETTERS_AND_SETTERS_ERI.ABAP) para instância de atributos.
 
 ### Books
-1. Uso de [CLASS-METHODS e CLASS-DATE](/OOP/ZPROG_OOP_CONSTRUCTOR_ERI.ABAP) para methods de classe (Methods estáticos) e atributos de classes (Atributos estáticos)
+1. Uso de [CLASS-METHODS e CLASS-DATE](/OOP/ZPROG_OOP_CONSTRUCTOR_ERI.ABAP) para methods de classe (Methods estáticos) e atributos de classes (Atributos estáticos).
+2. Uso do [CREATE PRIVATE]((/OOP/ZPROG_SINGLETON_ERI.ABAP)) na definição de classe Singlenton.
 
 ## TIPS & TRICKS
 1. Usando [CASE dentro do SELECT](/TIPS_&_TRICK/ZPROG_SELECT_WITH_CASE_ERI.ABAP) para modificar campos na tabela interna
