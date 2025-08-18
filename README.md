@@ -21,6 +21,7 @@
 10. Usando [encapsulamento](/OOP/ZPROG_ENCAPSULAMENTO_VISIB_ERI.ABAP) com classe local para perguntar nome
 11. Methos [GET e SET](/OOP/ZPROG_GETTERS_AND_SETTERS_ERI.ABAP) para instância de atributos.
 12. Usando [CREATE PRIVATE](/OOP/ZPROG_PROTEG_INSTANCIAS_ERI.ABAP) para encapsular a criação de instâncias apenas dentro da classe.
+13. Usando o conceito de class friends para gerar linhas em tela de forma [static](/OOP/ZPROG_CLASS_FRIENDS_ERI) e [encapsulando com create private](/OOP/ZPROG001_CLASS_FRIENDS_ERI).
 
 ### Books
 1. Uso de [CLASS-METHODS e CLASS-DATE](/OOP/ZPROG_OOP_CONSTRUCTOR_ERI.ABAP) para methods de classe (Methods estáticos) e atributos de classes (Atributos estáticos).
