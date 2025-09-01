@@ -28,6 +28,9 @@
 1. Uso de [CLASS-METHODS e CLASS-DATE](/OOP/ZPROG_OOP_CONSTRUCTOR_ERI.ABAP) para methods de classe (Methods estáticos) e atributos de classes (Atributos estáticos).
 2. Uso do [CREATE PRIVATE]((/OOP/ZPROG_SINGLETON_ERI.ABAP)) na definição de classe Singlenton.
 
+### ALV
+1. Criando ALV simples no ABAP classico usando os modulos de função [REUSE_ALV_FIELDCATALOG_MERGE para catalogo de campos e REUSE_ALV_LIST_DISPLAY](/ALV/ZPROG_ALV_DISPLAY_ERI.ABAP) para exibição.
+
 ## TIPS & TRICKS
 1. Usando [CASE dentro do SELECT](/TIPS_&_TRICK/ZPROG_SELECT_WITH_CASE_ERI.ABAP) para modificar campos na tabela interna
 2. Formatação de texto para LOG [New Syntax WRITER](/TIPS_&_TRICK/ZPROG_NEW_SYNTAX_TEXT_LOG_ERI.ABAP) baixando arquivo TXT com module funcção GUI_DOWNLOAD .
