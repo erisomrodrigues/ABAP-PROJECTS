@@ -60,7 +60,7 @@ IF lt_vbak IS NOT INITIAL.
 
   CALL FUNCTION 'REUSE_ALV_FIELDCATALOG_MERGE'
     EXPORTING
-      i_structure_name       = 'ZSTR_ALV_ERI'
+      i_structure_name       = 'ZSTR_ALV_ERI' "Estrututra criado no diciionario de dados SE11
     CHANGING
       ct_fieldcat            = lt_fieldcat
     EXCEPTIONS
