@@ -9,7 +9,8 @@
 
 # 📚 ALV PROJECTS
 
-1. Criando ALV com modulo de função [REUSE_ALV_LIST_DISPLAY](/ALV_PROJECTS/ALV/ZPROG_ALV_DISPLAY_ERI.ABAP) usando o catalogo de campos _REUSE_ALV_FIELDCATALOG_MERGE_.
-2. Criando ALV com modulo de função [REUSE_ALV_GRID_DISPLAY](/ALV_PROJECTS/ALV/ZPROG_ALV_GRID_DISPLAY_ERI.ABAP), definindo manualmete o catalogo de campo.
+1. Criando ALV simples com modulo de função [REUSE_ALV_LIST_DISPLAY](/ALV_PROJECTS/ALV/ZPROG_ALV_DISPLAY_ERI.ABAP) usando o catalogo de campos _REUSE_ALV_FIELDCATALOG_MERGE_.
+2. Criando ALV mais robusto com modulo de função [REUSE_ALV_GRID_DISPLAY](/ALV_PROJECTS/ALV/ZPROG_ALV_GRID_DISPLAY_ERI.ABAP), definindo manualmete o catalogo de campo.
+
 
 
