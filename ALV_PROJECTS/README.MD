@@ -13,3 +13,4 @@
 7. Por filtro fixo no ALV pelo modulo de função [REUSE_ALV_GRID_DISPLAY](/ALV_PROJECTS/ALV/ZPROG_ALV_DISPLAY_FILTER_ERI.ABAP) usando parametro *IT_FILTER*.
 8. Usando o parametro *IT_FILTER* do module de função [REUSE_ALV_GRID_DISPLAY](/ALV_PROJECTS/ALV/ZPROG1_ALV_DISPLAY_FILTER_ERI.ABAP) para aplicar fitros fixo com range e com exclusão.
 9. Criando titulo no ALV usando modulo de função [REUSE_ALV_COMMENTARY_WRITE](/ALV_PROJECTS/ALV/ZPROG_ALV_TOP_OF_PAGE_ERI.ABAP) com parametros *I_CALLBACK_TOP_OF_PAGE* e *I_CALLBACK_PROGRAM* do *REUSE_ALV_GRID_DISPLAY*.
+10. ALV com titulo de cabeçalho com número de linhas e valores inseridos sendo exibidos com modulo de função [REUSE_ALV_COMMENTARY_WRITE](/ALV_PROJECTS/ALV/ZPROG1_ALV_TOP_OF_PAGE_ERI.ABAP)
