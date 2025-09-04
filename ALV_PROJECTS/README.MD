@@ -11,3 +11,4 @@
 5. Exibir ALV em bloco. Mostrando dois ALV em tela usando modulos de função [REUSE_ALV_BLOCK_LIST_INIT, REUSE_ALV_BLOCK_LIST_APPEND e REUSE_ALV_BLOCK_LIST_DISPLAY](/ALV_PROJECTS/ALV/ZPROG_ALV_BLOCK_ERI.ABAP)
 6. ALV com campo *ERDAT* ordernado usando modulo de função [REUSE_ALV_GRID_DISPLAY](/ALV_PROJECTS/ALV/ZPROG_ALV_DISPLAY_SORT_ERI.ABAP) usando parametro *it_sort*.
 7. Por filtro fixo no ALV pelo modulo de função [REUSE_ALV_GRID_DISPLAY](/ALV_PROJECTS/ALV/ZPROG_ALV_DISPLAY_FILTER_ERI.ABAP) usando parametro *It_filter*.
+8. usando o parametro *IT_FILTER* do module de função [REUSE_ALV_GRID_DISPLAY](/ALV_PROJECTS/ALV/ZPROG1_ALV_DISPLAY_FILTER_ERI.ABAP) para aplicar fitros fixo com range e com exclusão.
