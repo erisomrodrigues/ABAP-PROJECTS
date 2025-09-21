@@ -18,4 +18,5 @@
 
 ## ALV OOP
 
-1. ALV simples com classes [CL_GUI_ALV_GRID, CL_GUI_CUSTOM_CONTAINER](/ALV_PROJECTS/ALV/ZPROG1_ALV_TOP_OF_PAGE_ERI.ABAP) e com catálogo de campos standard do modulo de função *LVC_FIELDCATALOG_MERGE*.
+1. ALV simples com classes [CL_GUI_ALV_GRID, CL_GUI_CUSTOM_CONTAINER](/ALV_PROJECTS/ALV/ZPRG002_ALV_OOP_ERI.ABAP) e com catálogo de campos standard do modulo de função *LVC_FIELDCATALOG_MERGE*.
+2. Alterando os campos do ALV usando [MODIFY e TRANSPORTING](/ALV_PROJECTS/ALV/ZPRG003_ALV_OOP_ERI.ABAP) mantendo o modulo de função *LVC_FIELDCATALOG_MERGE*.
