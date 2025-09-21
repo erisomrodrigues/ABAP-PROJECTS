@@ -25,3 +25,4 @@
 4. ALV com campos [personalizados](/ALV_PROJECTS/ALV/ZPRG006_ALV_OOP_ERI.ABAP) do catálogo de campos usando atribuição com *APPEND*.
 5. Usando o evento [HOTSPOT_CLICK](/ALV_PROJECTS/ALV/ZPRG007_ALV_OOP_ERI.ABAP) da classe CL_GUI_ALV_GRID para chamar tela apartir do campo VBELN no method HANDLE.
 6. Usando o evento [DOUBLE_CLICK](/ALV_PROJECTS/ALV/ZPRG008_ALV_OOP_ERI.ABAP) da classe CL_GUI_ALV_GRID para chamar dados para outra tela  method HANDLE.
+7. ALV usando modelo de classe [CL_ALV_TABLE](/ALV_PROJECTS/ALV/ZPRG_ALV_OOP_FACTORY_ERI.ABAP) com methods *DISPLAY* e *FACTORY* sem uso de container. 
