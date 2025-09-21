@@ -23,3 +23,4 @@
 3. Usando parametro *IT_SORT* do method [SET_TABLE_FOR_FIRST_DISPLAY](/ALV_PROJECTS/ALV/ZPRG004_ALV_OOP_ERI.ABAP) para ordernar ALV por coluna pré definida com *APPEND*.
 3. Usando parametro *IT_FILTER* do method [SET_TABLE_FOR_FIRST_DISPLAY](/ALV_PROJECTS/ALV/ZPRG005_ALV_OOP_ERI.ABAP) para filtrar valores no ALV usando estrura de *RANGE*.
 4. ALV com campos [personalizados](/ALV_PROJECTS/ALV/ZPRG006_ALV_OOP_ERI.ABAP) do catálogo de campos usando atribuição com *APPEND*.
+5. Usando o evento [HOTSPOT](/ALV_PROJECTS/ALV/ZPRG007_ALV_OOP_ERI.ABAP) da classe CL_GUI_ALV_GRID para chamar tela apartir de um campo definido no method HANDLE.
