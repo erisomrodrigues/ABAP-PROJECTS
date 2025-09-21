@@ -20,3 +20,4 @@
 
 1. ALV simples com classes [CL_GUI_ALV_GRID, CL_GUI_CUSTOM_CONTAINER](/ALV_PROJECTS/ALV/ZPRG002_ALV_OOP_ERI.ABAP) e com catálogo de campos standard do modulo de função *LVC_FIELDCATALOG_MERGE*.
 2. Alterando os campos do ALV usando [MODIFY e TRANSPORTING](/ALV_PROJECTS/ALV/ZPRG003_ALV_OOP_ERI.ABAP) mantendo o modulo de função *LVC_FIELDCATALOG_MERGE*.
+3. Usando parametro *IT_SORT* do method [SET_TABLE_FOR_FIRST_DISPLAY](/ALV_PROJECTS/ALV/ZPRG004_ALV_OOP_ERI.ABAP) para ordernar ALV por coluna pré definida com *APPEND*.
