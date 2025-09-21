@@ -18,4 +18,4 @@
 
 ## ALV OOP
 
-1. Criando ALV simples com as classes [CL_GUI_ALV_GRID e CL_GUI_CUSTOM_CONTAINER]().
+1. ALV simples com classes [CL_GUI_ALV_GRID, CL_GUI_CUSTOM_CONTAINER] e com catálogo de campos standard do modulo de função LVC_FIELDCATALOG_MERGE(/ALV_PROJECTS/ALV/ZPROG1_ALV_TOP_OF_PAGE_ERI.ABAP).
