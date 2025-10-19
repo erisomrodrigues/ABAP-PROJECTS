@@ -41,4 +41,6 @@
 ## Core ABAP Skills
 1. Usando as instruções LOOP,DO e CASE para criar algoritmo de [FIBONACCI](/ABAP-SKILL/Z_FIBONACCI_ERI.ABAP).
 ---
+## ABAP MODENO > 7.4
+
 
