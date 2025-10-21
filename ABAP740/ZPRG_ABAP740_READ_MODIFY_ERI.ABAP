@@ -48,7 +48,6 @@ WRITE:/ lv_index.
 *------------------------------------------------------------*
 *           Formas de Alterar valores                        *
 *------------------------------------------------------------*
-
 cl_demo_output=>write( lt_data ).
 
 lt_data[ name = 'Mariane']-role = 'Professora'.
