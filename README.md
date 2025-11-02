@@ -46,3 +46,5 @@
 1. Atribuindo valores a variaveis, estrutura e tabela sem uso de [READ TABLE e MODIFY. Usando TRY CATCH, LINE_EXISTS e LINE_INDEX](/ABAP740/ZPRG_ABAP740_READ_MODIFY_ERI.ABAP) para tratamento de erro.
 2. 
 ### CDS VIEW
+1. CDS simples com a tabela [SPFLI]().
+2. 
