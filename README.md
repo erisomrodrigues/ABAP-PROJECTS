@@ -39,6 +39,7 @@
 5. Expressões incorporadas em modelo de string [SY-DATUM, SY-UZEIT, CURRENCY, WIDTH e ALPHA](/TIPS_&_TRICK/ZPROG_STRING_EMBEDDED_ERI.ABAP)  ABAP moderno
 6. Uso do comando [TO UPPER e do UPPER](/TIPS_&_TRICK/ZPROG_SELECT_UPPER_ERI.ABAP) para tornas tonar conteúdo em caixa alta, e o uso em SQL após a clausula WHERE.
 7. Usando o [_CLEAR_](TIPS_&_TRICK/zprg_structure_with_clear_eri.abap) com _WITH_ para escolher quais campos **NÃO** limpar de uma estrutura.
+8. Usando o [ASSIGN]() para recuperar valores pela pilha ABAP que não existem localmente ou globalmente.
 
 ## Core ABAP Skills
 1. Usando as instruções LOOP,DO e CASE para criar algoritmo de [FIBONACCI](/ABAP-SKILL/Z_FIBONACCI_ERI.ABAP).
